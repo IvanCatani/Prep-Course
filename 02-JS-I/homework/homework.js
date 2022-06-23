@@ -4,7 +4,7 @@
 const nuevaString = holaaa;
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = null;
+const nuevoNum = 120479;
 
 // Crea una variable booleana:
 const nuevoBool = null;
@@ -246,4 +246,4 @@ module.exports = {
   areaDelTriangulo,
   deEuroAdolar,
   esVocal,
-};
+}
